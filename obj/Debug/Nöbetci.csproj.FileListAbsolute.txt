@@ -1,0 +1,8 @@
+C:\Users\senev\Documents\VS\Nöbetci\bin\Debug\Nöbetci.exe.config
+C:\Users\senev\Documents\VS\Nöbetci\bin\Debug\Nöbetci.exe
+C:\Users\senev\Documents\VS\Nöbetci\bin\Debug\Nöbetci.pdb
+C:\Users\senev\Documents\VS\Nöbetci\obj\Debug\Nöbetci.csprojAssemblyReference.cache
+C:\Users\senev\Documents\VS\Nöbetci\obj\Debug\Nöbetci.csproj.ResolveComReference.cache
+C:\Users\senev\Documents\VS\Nöbetci\obj\Debug\Nöbetci.csproj.CoreCompileInputs.cache
+C:\Users\senev\Documents\VS\Nöbetci\obj\Debug\Nöbetci.exe
+C:\Users\senev\Documents\VS\Nöbetci\obj\Debug\Nöbetci.pdb
